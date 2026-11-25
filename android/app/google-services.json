@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578924809942",
+    "project_id": "atrans-parts",
+    "storage_bucket": "atrans-parts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578924809942:android:27475ef49454dfd4a10377",
+        "android_client_info": {
+          "package_name": "com.atrans.atransparts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcIWqMfzQaxo6X0X7f5Fn7yvZIcQzWH7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
